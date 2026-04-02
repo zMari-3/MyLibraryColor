@@ -1,0 +1,11 @@
+D:\Zybina\CI_CD\MyLibraryColors\MyLibraryColors\bin\Debug\net8.0\MyLibraryColors.deps.json
+D:\Zybina\CI_CD\MyLibraryColors\MyLibraryColors\bin\Debug\net8.0\MyLibraryColors.dll
+D:\Zybina\CI_CD\MyLibraryColors\MyLibraryColors\bin\Debug\net8.0\MyLibraryColors.pdb
+D:\Zybina\CI_CD\MyLibraryColors\MyLibraryColors\obj\Debug\net8.0\MyLibraryColors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zybina\CI_CD\MyLibraryColors\MyLibraryColors\obj\Debug\net8.0\MyLibraryColors.AssemblyInfoInputs.cache
+D:\Zybina\CI_CD\MyLibraryColors\MyLibraryColors\obj\Debug\net8.0\MyLibraryColors.AssemblyInfo.cs
+D:\Zybina\CI_CD\MyLibraryColors\MyLibraryColors\obj\Debug\net8.0\MyLibraryColors.csproj.CoreCompileInputs.cache
+D:\Zybina\CI_CD\MyLibraryColors\MyLibraryColors\obj\Debug\net8.0\MyLibraryColors.dll
+D:\Zybina\CI_CD\MyLibraryColors\MyLibraryColors\obj\Debug\net8.0\refint\MyLibraryColors.dll
+D:\Zybina\CI_CD\MyLibraryColors\MyLibraryColors\obj\Debug\net8.0\MyLibraryColors.pdb
+D:\Zybina\CI_CD\MyLibraryColors\MyLibraryColors\obj\Debug\net8.0\ref\MyLibraryColors.dll
