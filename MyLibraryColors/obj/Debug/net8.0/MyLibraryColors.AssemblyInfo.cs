@@ -11,11 +11,11 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("zMAri-3")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Maria Zybina")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Color library ...")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a41010185ec998a394304c57452f7601fb7b263a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d99e40831ec4fc32015f417f114e4f46fe1e601c")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyLibraryColors")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyLibraryColors")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
