@@ -18,8 +18,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -28,9 +40,9 @@
               "RelativeDocumentMoniker": "MyLibraryColors\\MyLibraryColors.csproj",
               "ToolTip": "D:\\Zybina\\CI_CD\\MyLibraryColors\\MyLibraryColors\\MyLibraryColors.csproj",
               "RelativeToolTip": "MyLibraryColors\\MyLibraryColors.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-28T09:47:30.433Z",
+              "WhenOpened": "2026-04-02T09:31:34.989Z",
               "EditorCaption": ""
             },
             {
@@ -41,7 +53,7 @@
               "RelativeDocumentMoniker": "MyLibraryColors\\Class1.cs",
               "ToolTip": "D:\\Zybina\\CI_CD\\MyLibraryColors\\MyLibraryColors\\Class1.cs",
               "RelativeToolTip": "MyLibraryColors\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-28T09:47:03.427Z",
               "EditorCaption": ""
