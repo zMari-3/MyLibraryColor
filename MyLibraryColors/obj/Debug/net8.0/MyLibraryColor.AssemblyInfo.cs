@@ -15,11 +15,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Color library that implements conversions between different color models and colo" +
     "r manipulation")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1+0f3e03f263c180f8ee0cbfb373604dc5b839a18a")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.2.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.2+6c7e65ffc09132201258537f2e410d9e51093806")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyLibraryColor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyLibraryColor")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.1.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("1.0.2.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
 
