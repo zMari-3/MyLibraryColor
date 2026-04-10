@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Color library that implements conversions between different color models and colo" +
     "r manipulation")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.2.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.2+6c7e65ffc09132201258537f2e410d9e51093806")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.2+a7ccafa934f7178380e5fc9f735682fbad33f259")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyLibraryColor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyLibraryColor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.2.0")]

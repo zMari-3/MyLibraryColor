@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace MyLibraryColors
 {
-    public class Colors
+    public static class Colors
     {
         public static string ConvertRGBtoHEX(int r, int g, int b)
         {
@@ -24,7 +24,7 @@ namespace MyLibraryColors
             return $"#{r:X2}{g:X2}{b:X2}";
 
         }
-        public (int r, int g, int b) ConvertHEXtoRGB(string hex)
+        public static (int r, int g, int b) ConvertHEXtoRGB(string hex)
         {
             if (string.IsNullOrEmpty(hex))
                 throw new ArgumentException("HEX строка не может быть null или пустой", nameof(hex));
@@ -50,7 +50,7 @@ namespace MyLibraryColors
 
             return (r, g, b);
         }
-        public (double h, double s, double l) ConvertRGBtoHSL(int r, int g, int b)
+        public static  (double h, double s, double l) ConvertRGBtoHSL(int r, int g, int b)
         {
 
             double rd = r / 255.0;
