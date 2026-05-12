@@ -10,6 +10,13 @@
 	  <Authors>Maria Zybina</Authors>
 	  <Description>Color library that implements conversions between different color models and color manipulation</Description>
   </PropertyGroup>
+Trace.Listeners.Add(new ConsoleTraceListener());        // Консоль
+Trace.Listeners.Add(new TextWriterTraceListener("log.txt")); // Файл
+Trace.AutoFlush = true;
 
+// Теперь любой Trace.WriteLine() и Debug.WriteLine()
+// попадают во все три места одновременно
+Trace.WriteLine("Это сообщение видно везде");
+Debug.WriteLine("Это сообщение только в DEBUG");
 	
 </Project>
